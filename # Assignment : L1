@@ -24,8 +24,8 @@ Ques: How much space does following data types take ?
 ans:
     1)  int data types takes 
     2)  bool data types takes space of 4 bytes or 32 bits.
-    3)  bool data types takes space of 2 bytes or 16 bits.
-    3)  float data types takes space of 8 bytes or 64 bits.
+    3)  bool data types takes space of 1 bytes or 8 bits.
+    3)  float data types takes space of 4 bytes or 32 bits.
 
 Ques: What is the output of this program?
     void main(){
